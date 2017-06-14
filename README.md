@@ -1,1 +1,1 @@
-This Is Simple  Script to create twitter account
+This Is Simple  Script FTP Scannner 

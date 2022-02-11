@@ -14,7 +14,7 @@ logo='''
 #########  		{**Coded By Radhwan Benyoussef**}
 ##   		
 ##			{**greetz to alah**}
-##			{**than fahmi bk and my bro baha**}
+##			
 ***********************************************************
 '''
 print(logo) ;
